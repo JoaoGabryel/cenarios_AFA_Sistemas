@@ -37,7 +37,7 @@ estoque físico x sistema.
 - Os dados devem ser gravados corretamente no banco de dados.
 
 ### **Evidência(s)**
-[Vídeo](https://drive.google.com/file/d/12S-7mQsuJ3kqzibcALpMsxauT58CDDhE/view?usp=sharing)
+[Vídeo](https://docs.google.com/videos/d/1oP78qoQTq0fpeOe7uIEqXlwEUz_dzetmRZIYj8OZEEw/edit?usp=drive_link)
 
 ---
 
@@ -64,7 +64,7 @@ estoque físico x sistema.
 - Banco de dados não deve ser alterado.
 
 ### **Evidência(s)**
-[Vídeo](https://drive.google.com/file/d/16nyvMm0DhW-Gcx90TzZgfIA-TUA7HVb4/view?usp=drive_link)
+[Vídeo](https://docs.google.com/videos/d/13PZLDJAeri1qSPZ9eXM-Qf5NHnnvgy7sW0-1KvzTxDc/edit?usp=drive_link)
 
 ---
 
@@ -89,7 +89,7 @@ estoque físico x sistema.
 - Nenhum ajuste deve ser aplicado antes da validação final.
 
 ### **Evidência(s)**
-[Vídeo](https://drive.google.com/file/d/1e5d1ekhGE6-DO8S6Nf-kVfZ-W5XK1fG3/view?usp=drive_link)
+[Vídeo](https://docs.google.com/videos/d/1-Ir0uL18XPe8Wd7DjcGeBlVoPI41J7tz8O3paBfwEk4/edit?usp=drive_link)
 
 ---
 
@@ -114,7 +114,7 @@ estoque físico x sistema.
 - Nenhuma alteração temporária deve ser registrada.
 
 ### **Evidência(s)**
-[Vídeo](https://drive.google.com/file/d/1JIqyRNuynllAU3JFIhjMc7DbM-rQcuwk/view?usp=drive_link)
+[Vídeo](https://docs.google.com/videos/d/1cbeFAacnPnBBMdNQgCX2gB5RwsibuEol6bnBNtCT8BA/edit?usp=drive_link)
 
 ---
 
@@ -139,7 +139,7 @@ estoque físico x sistema.
 - Deve ser exibida mensagem de sucesso.
 
 ### **Evidência(s)**
-[Vídeo](https://drive.google.com/file/d/1e5d1ekhGE6-DO8S6Nf-kVfZ-W5XK1fG3/view?usp=drive_link)
+[Vídeo](https://docs.google.com/videos/d/1-Ir0uL18XPe8Wd7DjcGeBlVoPI41J7tz8O3paBfwEk4/edit?usp=drive_link)
 
 ---
 
@@ -162,7 +162,7 @@ estoque físico x sistema.
 - Mensagem deve orientar o usuário a realizar contagem.
 
 ### **Evidência(s)**
-[Vídeo](https://drive.google.com/file/d/1MJXjtS7d_yMYu1wuW5HREzQ_kVYXEk6-/view?usp=drive_link)
+[Vídeo](https://docs.google.com/videos/d/1KjODxRCppKzIuelyGIb2tewsXE-7adSFChKMzgSvkGw/edit?usp=drive_link)
 
 ---
 
@@ -186,7 +186,7 @@ estoque físico x sistema.
 - Informações devem bater com o banco de dados.
 
 ### **Evidência(s)**
-[Vídeo](https://drive.google.com/file/d/1BpAy_FNsF3T7E2fyobkJQW2myXIrAagn/view?usp=drive_link)
+[Vídeo](https://docs.google.com/videos/d/1Vsys9BFcW7iQDqznx2Hb68Abfu7Ae09Pij2QAmsWuho/edit?usp=drive_link)
 
 ---
 
@@ -211,5 +211,5 @@ estoque físico x sistema.
 - Saldos devem refletir o inventário final.
 
 ### **Evidência(s)**
-[Vídeo](https://drive.google.com/file/d/1a3AF4AYLiyRpwoVE1tyOMpjHpe_C8Img/view?usp=drive_link)
-[Vídeo](https://drive.google.com/file/d/1TIH5EunbX3rRnnylwsy6C-PuzGAUJfve/view?usp=drive_link)
+[Vídeo](https://docs.google.com/videos/d/1RTKkgeZLjujBP5_Fj2CNcMRIXmDiw1KfhFwg2YV5VSo/edit?usp=drive_link)
+[Vídeo](https://docs.google.com/videos/d/1C8K11DjeXVpyNU_GD2bwAqPSyNYRdNyORrxxB80spS4/edit?usp=drive_link)
