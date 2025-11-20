@@ -37,7 +37,7 @@ estoque físico x sistema.
 - Os dados devem ser gravados corretamente no banco de dados.
 
 ### **Evidência(s)**
-[Vídeo]()
+[Vídeo](https://drive.google.com/file/d/12S-7mQsuJ3kqzibcALpMsxauT58CDDhE/view?usp=sharing)
 
 ---
 
@@ -64,7 +64,7 @@ estoque físico x sistema.
 - Banco de dados não deve ser alterado.
 
 ### **Evidência(s)**
-[Vídeo]()
+[Vídeo](https://drive.google.com/file/d/16nyvMm0DhW-Gcx90TzZgfIA-TUA7HVb4/view?usp=drive_link)
 
 ---
 
@@ -89,7 +89,7 @@ estoque físico x sistema.
 - Nenhum ajuste deve ser aplicado antes da validação final.
 
 ### **Evidência(s)**
-[Vídeo]()
+[Vídeo](https://drive.google.com/file/d/1e5d1ekhGE6-DO8S6Nf-kVfZ-W5XK1fG3/view?usp=drive_link)
 
 ---
 
@@ -114,7 +114,7 @@ estoque físico x sistema.
 - Nenhuma alteração temporária deve ser registrada.
 
 ### **Evidência(s)**
-[Vídeo]()
+[Vídeo](https://drive.google.com/file/d/1JIqyRNuynllAU3JFIhjMc7DbM-rQcuwk/view?usp=drive_link)
 
 ---
 
@@ -139,7 +139,7 @@ estoque físico x sistema.
 - Deve ser exibida mensagem de sucesso.
 
 ### **Evidência(s)**
-[Vídeo]()
+[Vídeo](https://drive.google.com/file/d/1e5d1ekhGE6-DO8S6Nf-kVfZ-W5XK1fG3/view?usp=drive_link)
 
 ---
 
@@ -162,7 +162,7 @@ estoque físico x sistema.
 - Mensagem deve orientar o usuário a realizar contagem.
 
 ### **Evidência(s)**
-[Vídeo]()
+[Vídeo](https://drive.google.com/file/d/1MJXjtS7d_yMYu1wuW5HREzQ_kVYXEk6-/view?usp=drive_link)
 
 ---
 
@@ -186,7 +186,7 @@ estoque físico x sistema.
 - Informações devem bater com o banco de dados.
 
 ### **Evidência(s)**
-[Vídeo]()
+[Vídeo](https://drive.google.com/file/d/1BpAy_FNsF3T7E2fyobkJQW2myXIrAagn/view?usp=drive_link)
 
 ---
 
@@ -211,4 +211,5 @@ estoque físico x sistema.
 - Saldos devem refletir o inventário final.
 
 ### **Evidência(s)**
-[Vídeo]()
+[Vídeo](https://drive.google.com/file/d/1a3AF4AYLiyRpwoVE1tyOMpjHpe_C8Img/view?usp=drive_link)
+[Vídeo](https://drive.google.com/file/d/1TIH5EunbX3rRnnylwsy6C-PuzGAUJfve/view?usp=drive_link)
