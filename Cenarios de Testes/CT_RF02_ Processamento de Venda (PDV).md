@@ -36,7 +36,7 @@ Validação BD:
 - O PDV deve atualizar o total de forma automática e precisa.  
 
 ### **Evidência(s)**
-[Vídeo](https://drive.google.com/file/d/1F1bvwLGbqAiAmATXZs5m6MkNcAFYhlTc/view?usp=sharing)
+[Vídeo](https://docs.google.com/videos/d/1Z2BwRWTGPnDS_dhui-HwoHZG7PsngkyiBeW93euEiH4/edit?usp=drive_link)
 
 ---
 
@@ -63,7 +63,7 @@ Validação BD:
 - O PDV deve exibir mensagem confirmando o desconto aplicado.  
 
 ### **Evidência(s)**
-[Vídeo](https://drive.google.com/file/d/11TlrGzF0V7oVFxGcSd3-yic6YR6d4fZO/view?usp=drive_link)
+[Vídeo](https://docs.google.com/videos/d/132LQQY9ppwz4ur2YVNc9VioKvn2Sh7Nz7H_iSClIgKs/edit?usp=drive_link)
 Funcionalidade de desconto por item não disponível
 
 ---
@@ -92,7 +92,7 @@ Funcionalidade de desconto por item não disponível
 - Deve gerar comprovante/registro de pagamento múltiplo.  
 
 ### **Evidência(s)**
-[Vídeo](https://drive.google.com/file/d/1O1JMTiE5zNc17TCZmK_kigTFIGBirxvw/view?usp=drive_link)
+[Vídeo](https://docs.google.com/videos/d/17dUCW14ETa88xSMACP2jRS6wM1Dt-b8au84uYSA2MeY/edit?usp=drive_link)
 
 ---
 
@@ -119,7 +119,7 @@ Funcionalidade de desconto por item não disponível
 - Sistema deve exibir mensagem de fechamento realizado com sucesso.  
 
 ### **Evidência(s)**
-[Vídeo](https://drive.google.com/file/d/1DWdrfSOjTVC95jDEzjQkDBiBgoBdB09n/view?usp=drive_link)
+[Vídeo](https://docs.google.com/videos/d/1_vCDPQLY4tkBFDgMw-x0eaFT6XA5P8FxY1ABEJjiW0E/edit?usp=drive_link)
 
 ---
 
@@ -147,5 +147,5 @@ Funcionalidade de desconto por item não disponível
 - Todos os documentos financeiros devem estar gravados corretamente.  
 
 ### **Evidência(s)**
-[Vídeo](https://drive.google.com/file/d/1P_3xqPcePOCEdbOUcEO7iQ6XvfkeCgmL/view?usp=drive_link)
+[Vídeo](https://docs.google.com/videos/d/1S2DcxhFemsAz_ID8zrFEBOSAsVDTo2tyJJNIlsBjsnQ/edit?usp=drive_link)
 
