@@ -35,7 +35,7 @@ total e parcial.
 - Deve ser exibida mensagem de sucesso.  
 
 ### **Evidência(s)**
-[Vídeo]()
+[Vídeo](https://docs.google.com/videos/d/1cvdcBARrWTFuYYa9JWJhQPV71yefFYyO_vujbjtYOE0/edit?usp=drive_link)
 
 ---
 
@@ -62,7 +62,7 @@ total e parcial.
 - Pedido deve ficar disponível para consulta posterior.  
 
 ### **Evidência(s)**
-[Vídeo]()
+[Vídeo](https://docs.google.com/videos/d/1WiIwLm-nW8dM-hNSwsNsABKYl_0XJCIGQE0NhKppNjA/edit?usp=drive_link)
 
 ---
 
@@ -90,7 +90,7 @@ total e parcial.
 - Movimentações financeiras registradas corretamente no BD.  
 
 ### **Evidência(s)**
-[Vídeo]()
+[Vídeo](https://drive.google.com/file/d/1fohYli5AlHly1iUG8f6i9le7zLlYNxbz/view?usp=drive_link)
 
 ---
 
@@ -115,7 +115,7 @@ total e parcial.
 - Deve ser exibida mensagem de fechamento concluído.
 
 ### **Evidência(s)**
-[Vídeo]()
+[Vídeo](https://drive.google.com/file/d/1eOBAz7Zq2lkPZIQV7_iy7kfLTjjYpD8E/view?usp=drive_link)
 
 ---
 
@@ -140,4 +140,4 @@ total e parcial.
 - Registros devem estar devidamente vinculados ao pedido.  
 
 ### **Evidência(s)**
-[Vídeo]()
+[Vídeo](https://drive.google.com/file/d/1q988SwAZBsEGnIKqCRxoiybPjzRyMGap/view?usp=drive_link)
