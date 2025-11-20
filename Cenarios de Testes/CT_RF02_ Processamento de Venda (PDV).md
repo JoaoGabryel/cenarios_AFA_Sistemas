@@ -63,7 +63,8 @@ Validação BD:
 - O PDV deve exibir mensagem confirmando o desconto aplicado.  
 
 ### **Evidência(s)**
-[Vídeo](https://drive.google.com/file/d/1Zq-lt9MmpESbBQYuxg43J6YVycW3Aivb/view?usp=sharing)
+[Vídeo](https://drive.google.com/file/d/11TlrGzF0V7oVFxGcSd3-yic6YR6d4fZO/view?usp=drive_link)
+Funcionalidade de desconto por item não disponível
 
 ---
 
@@ -91,7 +92,7 @@ Validação BD:
 - Deve gerar comprovante/registro de pagamento múltiplo.  
 
 ### **Evidência(s)**
-[Vídeo](https://drive.google.com/file/d/1X37sq-iUuB7aUV5Bf3HErGDwMRERPuWk/view?usp=sharing)
+[Vídeo](https://drive.google.com/file/d/1O1JMTiE5zNc17TCZmK_kigTFIGBirxvw/view?usp=drive_link)
 
 ---
 
@@ -118,7 +119,7 @@ Validação BD:
 - Sistema deve exibir mensagem de fechamento realizado com sucesso.  
 
 ### **Evidência(s)**
-[Vídeo]()
+[Vídeo](https://drive.google.com/file/d/1DWdrfSOjTVC95jDEzjQkDBiBgoBdB09n/view?usp=drive_link)
 
 ---
 
@@ -146,5 +147,5 @@ Validação BD:
 - Todos os documentos financeiros devem estar gravados corretamente.  
 
 ### **Evidência(s)**
-[Vídeo]()
+[Vídeo](https://drive.google.com/file/d/1P_3xqPcePOCEdbOUcEO7iQ6XvfkeCgmL/view?usp=drive_link)
 
