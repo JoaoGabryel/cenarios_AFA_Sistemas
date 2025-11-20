@@ -38,7 +38,7 @@ Objetivo Final: Validar controle de relacionamento e regras de crédito.
 - Deve ser exibida mensagem de cadastro concluído.  
 
 ### **Evidência(s)**
-[Vídeo]()
+[Vídeo](https://drive.google.com/file/d/1-JlIohhocNu1eFJ8nQ1f7vGEjCzw5Xx5/view?usp=drive_link)
 
 ---
 
@@ -64,7 +64,7 @@ Objetivo Final: Validar controle de relacionamento e regras de crédito.
 - Sistema deve permitir edição futura do limite.  
 
 ### **Evidência(s)**
-[Vídeo]()
+[Vídeo](https://drive.google.com/file/d/101MHoEYnrLtNEkmZKtYMzyakkneJq7Vb/view?usp=drive_link)
 
 ---
 
@@ -90,7 +90,7 @@ Objetivo Final: Validar controle de relacionamento e regras de crédito.
 - Deve permitir compras futuras em nome dos dependentes.  
 
 ### **Evidência(s)**
-[Vídeo]()
+[Vídeo](https://drive.google.com/file/d/1q2cU9h_3w-TduKSMcS17UE40eHbLnjeC/view?usp=drive_link)
 
 ---
 
@@ -118,7 +118,7 @@ Objetivo Final: Validar controle de relacionamento e regras de crédito.
 - Valores devem refletir na movimentação financeira.  
 
 ### **Evidência(s)**
-[Vídeo]()
+[Vídeo](https://drive.google.com/file/d/1dHcabs2Eak0vu9kFlT23uHVMdQN_kCyB/view?usp=drive_link)
 
 ---
 
@@ -145,7 +145,7 @@ Objetivo Final: Validar controle de relacionamento e regras de crédito.
 - Cliente fora do limite deve ser bloqueado ou avisado conforme regra do sistema.  
 
 ### **Evidência(s)**
-[Vídeo]()
+[Vídeo](https://drive.google.com/file/d/1ayC0jJiSM92JRyLKLy0hY3ZkgESpR5DN/view?usp=drive_link)
 
 ---
 
@@ -170,7 +170,7 @@ Objetivo Final: Validar controle de relacionamento e regras de crédito.
 - Compras futuras devem respeitar o novo limite.  
 
 ### **Evidência(s)**
-[Vídeo]()
+[Vídeo](https://drive.google.com/file/d/1Y1zLVl-1cygGXYDuUCNXiEq9YBkPBcMA/view?usp=drive_link)
 
 ---
 
@@ -196,7 +196,7 @@ Objetivo Final: Validar controle de relacionamento e regras de crédito.
 - Deve permitir exportação (PDF/Excel), se disponível.  
 
 ### **Evidência(s)**
-[Vídeo]()
+[Vídeo](https://drive.google.com/file/d/1kiH37zS_h986ZIRspfi-mvDd1ltSOPCa/view?usp=drive_link)
 
 ---
 
@@ -225,4 +225,4 @@ Objetivo Final: Validar controle de relacionamento e regras de crédito.
 - Registros financeiros devem refletir fielmente as operações realizadas.  
 
 ### **Evidência(s)**
-[Vídeo]()
+[Vídeo](https://drive.google.com/file/d/1Mm1FF_hQpDym89XKCMwaTdcsPnm5iw9n/view?usp=drive_link)
