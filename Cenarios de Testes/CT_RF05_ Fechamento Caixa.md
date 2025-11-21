@@ -38,7 +38,7 @@ financeiro diário.
 - Operações devem aparecer no histórico individual de cada caixa.  
 
 ### **Evidência(s)**
-[Vídeo]()
+[Vídeo](https://drive.google.com/file/d/1c3QrDaD2K0ygVAXqHdxyacbBYjyHC0cE/view?usp=drive_link)
 
 ---
 
@@ -63,7 +63,7 @@ financeiro diário.
 - Documento deve aparecer nos relatórios e no histórico do caixa.  
 
 ### **Evidência(s)**
-[Vídeo]()
+[Vídeo](https://drive.google.com/file/d/16Af3TK_eJ9dKRlr8_w1-HbYbveZKHmx-/view?usp=drive_link)
 
 ---
 
@@ -89,7 +89,7 @@ financeiro diário.
 - Motivo deve ser registrado corretamente no BD.  
 
 ### **Evidência(s)**
-[Vídeo]()
+[Vídeo](https://drive.google.com/file/d/1UyneMndumbzi0IbCcLIYCJpOXLuGFF9G/view?usp=drive_link)
 
 ---
 
@@ -114,7 +114,7 @@ financeiro diário.
 - Sistema deve confirmar fechamento com sucesso.  
 
 ### **Evidência(s)**
-[Vídeo]()
+[Vídeo](https://drive.google.com/file/d/10PDcmBT-ABBdsBgR-eaj3mS6KXw3iKid/view?usp=drive_link)
 
 ---
 
@@ -140,7 +140,7 @@ financeiro diário.
 - Sistema deve garantir integridade da conciliação.  
 
 ### **Evidência(s)**
-[Vídeo]()
+[Vídeo](https://drive.google.com/file/d/1qJ85LEPqQEfvW_iCpxeFcW_SFpbUEup4/view?usp=drive_link)
 
 ---
 
@@ -169,5 +169,5 @@ financeiro diário.
 - Nenhuma inconsistência deve ser encontrada.  
 
 ### **Evidência(s)**
-[Vídeo]()
+[Vídeo](https://drive.google.com/file/d/1WX9u1kq8reevwaciSGQjkLy-QLzQMSMh/view?usp=drive_link)
 
