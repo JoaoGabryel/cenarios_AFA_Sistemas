@@ -39,7 +39,7 @@ financeiro diário.
 
 ### **Evidência(s)**
 [Vídeo](https://drive.google.com/file/d/1c3QrDaD2K0ygVAXqHdxyacbBYjyHC0cE/view?usp=drive_link)
-
+Não foi possivel abrir mais de um caixa.
 ---
 
 ## **Caso de Teste CT_RF06_02: Gerar vendas com diferentes tipos de documentos**

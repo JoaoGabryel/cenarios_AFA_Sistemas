@@ -40,7 +40,7 @@ Validação BD:
 
 ---
 
-## **Caso de Teste CT_RF02_02: Aplicar desconto promocional em 1 item**
+## **Caso de Teste CT_RF02_02: Aplicar desconto promocional na venda**
 
 | ID | Descrição |
 | :-- | :-- |
